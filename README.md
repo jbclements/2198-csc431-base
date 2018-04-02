@@ -1,2 +1,1 @@
-# 2184-csc431-lab1
-sample lab
+# this repo contains the two files needed to get lab 0 running...
