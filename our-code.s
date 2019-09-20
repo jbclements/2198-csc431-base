@@ -1,5 +1,5 @@
 section .text
 global our_code_starts_here
 our_code_starts_here:
-  mov eax, 37
+  mov rax, 29
   ret
